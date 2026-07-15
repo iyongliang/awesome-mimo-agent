@@ -34,6 +34,7 @@
 | **OpenCode**    | 开源 AI 编程 Agent。                                                  | [指南](./docs/opencode.zh-CN.md)       |
 | **Pi**          | 极简终端编程工具，支持树形结构会话。                                  | [指南](./docs/pi_mono.zh-CN.md)        |
 | **Qwen Code**   | 阿里 Qwen 团队的终端 AI Agent。                                       | [指南](./docs/qwen_code.zh-CN.md)      |
+| **Qoder**       | 阿里下一代 AI 编程平台。                                               | [指南](./docs/qoder.md)              |
 | **TRAE**        | 字节跳动的 AI 原生 IDE。                                              | [指南](./docs/trae.zh-CN.md)           |
 | **WorkBuddy/CodeBuddy** | AI Agent，支持 OpenAI 兼容本地模型配置。                     | [指南](./docs/workbuddy.zh-CN.md)      |
 | **Zed**         | 高性能代码编辑器，内置 AI 助手。                                      | [指南](./docs/zed.zh-CN.md)            |

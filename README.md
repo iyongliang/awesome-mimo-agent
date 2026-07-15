@@ -34,6 +34,7 @@ Each guide walks through installation, configuration, and first run — so you c
 | **OpenCode**    | Open-source AI coding agent.                                                | [Guide](./docs/opencode.md)    |
 | **Pi**          | Minimal terminal coding harness with tree-structured sessions.              | [Guide](./docs/pi_mono.md)     |
 | **Qwen Code**   | Terminal AI agent by Alibaba Qwen team.                                     | [Guide](./docs/qwen_code.md)   |
+| **Qoder**       | Alibaba's next-generation AI programming platform.                          | [Guide](./docs/qoder.md)       |
 | **TRAE**        | ByteDance's AI-native IDE.                                                  | [Guide](./docs/trae.md)        |
 | **WorkBuddy/CodeBuddy** | AI agent with OpenAI-compatible local model config.                | [Guide](./docs/workbuddy.md)   |
 | **Zed**         | A high-performance code editor with built-in AI assistant.                  | [Guide](./docs/zed.md)         |
